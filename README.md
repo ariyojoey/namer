@@ -1,6 +1,6 @@
 # namer
 
-A new Flutter project.
+A Flutter project that randomly generates English words and allows you to add them to favorites and also view your favorites on a page. It covers all Flutter basics.
 
 ## Getting Started
 
